@@ -2,3 +2,5 @@
 
 ## Utilizamos React com framework de desenvolvimento
 ## Nossa linguagem de progamação base é o JS
+
+## Essa é uma atualização de readme
